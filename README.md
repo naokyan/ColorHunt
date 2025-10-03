@@ -4,7 +4,7 @@
 プレイヤーは異なる色のランプを拾い、照らし、組み合わせながらステージを攻略します。
 
 [ゲーム試遊] https://naokyan.github.io/WebGL_ColorHunt/
-
+[DEMO動画] https://youtu.be/0xOFpAblmco
 ---
 
 ## 🎮 ゲーム概要
